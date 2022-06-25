@@ -1,0 +1,40 @@
+.container-products{
+    background-color: red;
+    height: auto;
+    width: 100%;
+}
+.cabezera{
+    background-color: aqua;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    padding: 10px;
+
+
+}
+.cabezera h2{
+  font-size: 2rem;  
+}
+
+.filtros{
+    background-color: blueviolet;
+}
+.catalogo{
+    background-color: green;
+    height: 200px;
+    
+}
+.contenedor-productos{
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    width: 80%;
+    margin: autot;
+}
+
+
+
+.filtros h3{
+    font-size: 1rem;
+    color: black;
+}
